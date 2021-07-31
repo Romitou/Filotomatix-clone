@@ -1609,10 +1609,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/chenfengyuan__vue-qrcode@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@types/chenfengyuan__vue-qrcode/-/chenfengyuan__vue-qrcode-1.0.2.tgz#4655874f3f582ed512744c8e91fbd4d4272fe7ea"
-  integrity sha512-IuPLrn5Q715rhVYknw4qSV4HM8ED86kOMW2U65UlDZCuFjScPSzYS0iUbdh6pGx3o1bI74+xK9OBPP91leZvCw==
+"@types/chenfengyuan__vue-qrcode@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@types/chenfengyuan__vue-qrcode/-/chenfengyuan__vue-qrcode-1.0.3.tgz#e2c2e6eca6fc3ce970a29c310745a639474f8af2"
+  integrity sha512-uC86GI4Biulj+sNsTg9xDBUPVfmiGKjSuk8Z2+SpvLLenOJ6ajVCvI+HgfcNZ4fZZ6wE7f6fLUkJVo/RDESRKQ==
   dependencies:
     vue "^2.0.0"
 
