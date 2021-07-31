@@ -41,7 +41,7 @@
     "@nuxtjs/vuetify": "^1.12.1",
     "@types/bcrypt": "^5.0.0",
     "@types/chenfengyuan__vue-qrcode": "^1.0.3",
-    "@types/express-jwt": "^6.0.1",
+    "@types/express-jwt": "^6.0.2",
     "@types/jsonwebtoken": "^8.5.4",
     "@types/mongoose": "^5.11.97",
     "@types/socket.io": "^3.0.2",
